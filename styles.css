@@ -23,6 +23,7 @@ body{
 }
 
 .input-textarea {
+    margin-left: 150px;
     background: rgba(189, 164, 164, 0.4);
     min-height: 120px;
     width: 60%;
@@ -39,6 +40,7 @@ h2 {
 }
 
 textarea {
+    text-align: center;
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
     font-size: inherit;
@@ -54,4 +56,8 @@ p {
 h2, p {
     margin-top: 0;
     margin-bottom: 1rem;
+}
+
+.p {
+    text-align: center;
 }
