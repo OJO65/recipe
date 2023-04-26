@@ -1,3 +1,3 @@
 # recipe for soft-layer chapati
-![Screenshot from 2023-04-25 11-11-26](https://user-images.githubusercontent.com/129600311/234215624-a8978ef7-f71b-4fbd-9634-c7bfe36eab82.png)
-![Screenshot from 2023-04-25 11-11-35](https://user-images.githubusercontent.com/129600311/234215645-07bc887c-9dad-4c98-a62f-c3a52bee4308.png)
+![Screenshot from 2023-04-26 15-46-54](https://user-images.githubusercontent.com/129600311/234579290-c504ef2d-95cd-422d-9a75-11ee68165f05.png)
+![Screenshot from 2023-04-26 15-47-00](https://user-images.githubusercontent.com/129600311/234579304-24c2b580-af04-4469-af66-6cbea09ec537.png)
